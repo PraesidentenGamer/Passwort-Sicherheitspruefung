@@ -26,7 +26,7 @@ Das Programm kann in folgenden Formaten heruntergeladen werden:
 ### Für Windows (`.exe`-Datei)
 
 1. **Die neueste Version der `.exe`-Datei herunterladen**:
-   - Besuche [die Releases-Seite](https://github.com/dein-repository/passwort-sicherheitspruefung/releases) und lade die neueste `.exe` herunter.
+   - Besuche [die Releases-Seite](https://github.com/PraesidentenGamer/Passwort-Sicherheitspruefung/tree/main) und lade die neueste `.exe` herunter.
 2. **Datei ausführen**:
    - Doppelklicke auf `passwort_sicherheitspruefung.exe`, um das Programm zu starten.
 
