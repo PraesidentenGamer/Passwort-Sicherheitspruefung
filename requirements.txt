@@ -1,0 +1,11 @@
+What do you have to install for packages via CMD (without admin rights)
+
+
+import tkinter as tk
+from tkinter import ttk, messagebox
+from zxcvbn import zxcvbn
+import random
+import string
+
+1. open CMD (without Admin Rights)
+2. type **pip install tkinter/tk zxcvbn
