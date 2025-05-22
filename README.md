@@ -60,7 +60,7 @@ The program can be downloaded from the following formats:
 ### for Windows (`.exe` file)
 
 1. ** Download the latest version of the `.exe` file **:
-   -Visit [the releases page] (https://github.com/praesidentengamer/password-sicherheitpruefung/trree/main) and download the latest `.exe`.
+   -Visit [die Releases-Seite](https://github.com/PraesidentenGamer/Passwort-Sicherheitspruefung/tree/main) and download the latest `.exe`.
 2. ** Run file **:
    - Double -click on `password_icherheitpruefung.exe` to start the program.
 
